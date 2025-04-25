@@ -1,0 +1,14 @@
+{
+    "require": {
+        "robmorgan/phinx": "^0.16.7"
+    },
+    "scripts": {
+        "migrate": "vendor/bin/phinx migrate",
+        "create": "vendor/bin/phinx create"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
