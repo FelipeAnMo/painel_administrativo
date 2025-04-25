@@ -22,3 +22,12 @@
 <h2>Pronto!</h2>
 
 <p>O ambiente estará configurado e o banco de dados migrado com sucesso.</p>
+
+<h2>Acesso ao painel administrativo</h2>
+
+<p>Para acessar o painel administrativo, utilize o seguinte login padrão:</p>
+
+<ul>
+  <li><strong>E-mail:</strong> admin@admin.com</li>
+  <li><strong>Senha:</strong> admin</li>
+</ul>
